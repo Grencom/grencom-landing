@@ -1,4 +1,4 @@
-import "@/styles/globals.css";
+"../styles/globals.css";
 import GrencomLandingPage from "./GrencomLandingPage";
 
 export default function Home() {
