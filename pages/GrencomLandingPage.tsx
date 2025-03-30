@@ -1,1 +1,7 @@
-// Full GrencomLandingPage component will be inserted here.
+export default function GrencomLandingPage() {
+  return (
+    <div>
+      {/* your content here */}
+    </div>
+  );
+}
